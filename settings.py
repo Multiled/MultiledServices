@@ -30,6 +30,7 @@ INSTALLED_ADDONS = [
     'djangocms-text-ckeditor',
     'djangocms-video',
     'django-filer',
+    'djangocms-local-navigation',
     'cmsplugin-slick',
     # </INSTALLED_ADDONS>
 ]
